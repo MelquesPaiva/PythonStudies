@@ -1,4 +1,4 @@
-# grafos_oo_py
+# ucs
 Project to find path between nods in a graph using OO and Python<br/>
 This program was developed and tested using the Python 3.9. Python can be downloaded on the following link:
 - https://www.python.org/downloads/
